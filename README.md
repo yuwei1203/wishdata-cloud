@@ -17,7 +17,9 @@
 
 数据服务：API开发
 
-数据应用（待开发）：可视化大屏、数据标签、数据开发（基于FLINK）
+数据应用（已完成）：可视化大屏
+
+数据应用（待开发）：数据标签、数据开发（基于FLINK）
 
 该系统主要基于Hadoop + Hive构建企业级数据仓库，数仓层大致划分成为贴源层，公共层，应用层3层，细分为ODS数据引入层，DIM公共维度层，DWD明细数据层，DWS汇总数据层，ADS应用数据层。
 Hive是建立在Hadoop上的数据仓库基础架构。它提供了一系列的工具，用来进行数据提取、转换、加载，这是一种可以存储、查询和分析存储在Hadoop中的大规模数据机制。可以把Hadoop下结构化数据文件映射为一张成Hive中的表，并提供类sql查询功能，除了不支持更新、索引和事务，sql的其它功能都支持。可以将sql语句转换为MapReduce任务进行运行，作为sql到MapReduce的映射器。
@@ -103,3 +105,5 @@ wishdata-cloud
 [智数通-数据服务平台.docx](https://github.com/yuwei1203/wishdata-cloud/files/10986662/-.docx)
 
 [智数通-任务调度平台.docx](https://github.com/yuwei1203/wishdata-cloud/files/10986663/-.docx)
+
+[智数通-可视化平台.docx](https://github.com/yuwei1203/wishdata-cloud/files/12472689/-.docx)
