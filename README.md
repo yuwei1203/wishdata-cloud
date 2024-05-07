@@ -17,9 +17,9 @@
 
 数据服务：API开发
 
-数据应用（已完成）：可视化大屏
+数据应用（已完成）：可视化大屏、动态流程表单、主数据管理
 
-其它规划中数据应用（待开发）：实时数据开发（基于FLINK）、动态流程表单（开发中）
+其它规划中数据应用（待开发）：实时数据开发（基于FLINK）
 
 该系统基于Hadoop + Hive或者Doris构建企业级数据仓库，数仓层大致划分成为贴源层，公共层，应用层3层，细分为ODS数据引入层，DIM公共维度层，DWD明细数据层，DWS汇总数据层，ADS应用数据层。
 
@@ -110,3 +110,7 @@ wishdata-cloud
 [智数通-任务调度平台.docx](https://github.com/yuwei1203/wishdata-cloud/files/10986663/-.docx)
 
 [智数通-可视化平台.docx](https://github.com/yuwei1203/wishdata-cloud/files/12472689/-.docx)
+
+[智数通-流程表单平台.docx](https://github.com/yuwei1203/wishdata-cloud/files/15228195/-.docx)
+
+[智数通-主数据管理平台.docx](https://github.com/yuwei1203/wishdata-cloud/files/15228197/-.docx)
