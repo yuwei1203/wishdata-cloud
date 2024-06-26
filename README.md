@@ -114,3 +114,8 @@ wishdata-cloud
 [智数通-流程表单平台.docx](https://github.com/yuwei1203/wishdata-cloud/files/15228195/-.docx)
 
 [智数通-主数据管理平台.docx](https://github.com/yuwei1203/wishdata-cloud/files/15228197/-.docx)
+
+[智数通-实时计算平台.docx](https://github.com/user-attachments/files/15984349/-.docx)
+
+
+
