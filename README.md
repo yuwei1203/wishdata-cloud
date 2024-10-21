@@ -17,9 +17,9 @@
 
 数据服务：API开发
 
-数据应用（已完成）：可视化大屏、动态流程表单、主数据管理、实时数据开发（基于FLINK）、办公文档管理（word、excel、ppt在线编辑，可以协同）
+数据应用（已完成）：可视化大屏、动态流程表单、主数据管理、实时数据开发（基于FLINK）、办公文档管理（word、excel、ppt在线编辑，可以协同）、AIGC人工智能应用
 
-其它规划中数据应用（待开发）：AIGC人工智能应用
+其它规划中数据应用（待开发）：。。。
 
 该系统基于Hadoop + Hive或者Doris构建企业级数据仓库，数仓层大致划分成为贴源层，公共层，应用层3层，细分为ODS数据引入层，DIM公共维度层，DWD明细数据层，DWS汇总数据层，ADS应用数据层。
 
@@ -118,3 +118,5 @@ wishdata-cloud
 [智数通-实时计算平台.docx](https://github.com/user-attachments/files/15984349/-.docx)
 
 [智数通-办公文档平台.docx](https://github.com/user-attachments/files/16623075/-.docx)
+
+[智数通-人工智能平台.docx](https://github.com/user-attachments/files/17457998/-.docx)
