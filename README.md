@@ -52,7 +52,7 @@ Apache Doris也是一个MPP架构的、专门用于OLAP查询的数据库产品�
 
 •	缓存：Redis
 
-•	分布式调度：Zookeeper + Netty
+•	分布式调度：Netty
 
 •	日志管理：Logback
 
