@@ -17,7 +17,7 @@
 
 数据服务：API开发
 
-数据应用（已完成）：可视化大屏、动态流程表单、主数据管理、实时数据开发（基于FLINK）、办公文档管理（word、excel、ppt在线编辑，可以协同）、AIGC人工智能应用
+数据应用（已完成）：可视化大屏、动态流程表单、主数据管理、实时数据开发（基于FLINK）、办公文档管理（word、excel、ppt在线编辑，可以协同）、AIGC人工智能应用、数据报表
 
 其它规划中数据应用（待开发）：。。。
 
@@ -120,3 +120,6 @@ wishdata-cloud
 [智数通-办公文档平台.docx](https://github.com/user-attachments/files/16623075/-.docx)
 
 [智数通-人工智能平台.docx](https://github.com/user-attachments/files/17457998/-.docx)
+
+[智数通-数据报表平台.docx](https://github.com/user-attachments/files/18779891/-.docx)
+
